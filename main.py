@@ -2,6 +2,8 @@
 # Created for learning purposes
 # Author: Ngsnet Hawarya
 
+# TODO: maybe add file input support later
+
 import base64
 
 def encode_text(text):
